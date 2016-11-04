@@ -1,0 +1,3 @@
+[submodule "srvup-rest-framework"]
+	path = srvup-rest-framework
+	url = https://github.com/codingforentrepreneurs/srvup-rest-framework
